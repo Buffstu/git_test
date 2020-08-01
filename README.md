@@ -1,2 +1,2 @@
 # git_test
-safsfds
+"This is Buffstu's first git project"
